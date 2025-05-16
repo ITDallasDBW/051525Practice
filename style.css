@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.yeller {
+    background-color: khaki;
+}
+.rojo {
+    background-color: red;
+}
+.verde {
+    background-color: green;
+}
+.headshot {
+    width: 200px;
+}
+
+/* .fa-solid {
+    width: 75%;
+}
+
+.fa-bolt-lightning {
+    width: 50%;
+}
+.bolt {
+    width: 25%;
+} */
